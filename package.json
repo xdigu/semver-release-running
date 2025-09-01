@@ -1,6 +1,6 @@
 {
   "name": "semver-release-running",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "private": true,
   "description": "",
   "main": "index.js",

@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/xdigu/semver-release-running/compare/v1.1.1...v1.1.2) (2025-09-01)
+
+
+### Bug Fixes
+
+* added npm plugin to bump package.json version ([53f8e3c](https://github.com/xdigu/semver-release-running/commit/53f8e3ca2aaa915462311bc2fcb5d7adef0b30e8))
+* turn private = true to prevent publishing as a npm package ([1de7f78](https://github.com/xdigu/semver-release-running/commit/1de7f78de27852db9fde44dd9d18a5cf3e222e9c))
+
 ## [1.1.1](https://github.com/xdigu/semver-release-running/compare/v1.1.0...v1.1.1) (2025-09-01)
 
 
