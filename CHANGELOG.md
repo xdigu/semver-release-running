@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/xdigu/semver-release-running/compare/v1.0.0...v1.1.0) (2025-09-01)
+
+
+### Features
+
+* adding hello world ([45b239d](https://github.com/xdigu/semver-release-running/commit/45b239db84bc25498a379e4d2e4b07e26bd948a7))
+
 # 1.0.0 (2025-09-01)
 
 
