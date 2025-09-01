@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/xdigu/semver-release-running/compare/v1.1.0...v1.1.1) (2025-09-01)
+
+
+### Bug Fixes
+
+* fixing text ([aa694c9](https://github.com/xdigu/semver-release-running/commit/aa694c978cdb752f77ed43c95f82f0acdc217297))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
